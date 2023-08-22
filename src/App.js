@@ -68,7 +68,7 @@ useEffect(() => {
       <h1>Welcome Freshers!</h1>
 
       <div className="forms">
-        <p>Please complete the following form if you're interested in participating in the Fresher's Day(21/08/2023).</p>
+        <p>Please complete the following form if you're interested in participating in the Fresher's Day(26/08/2023).</p>
         <div>
           <button type="button" className="btn btn-primary" style={{ backgroundColor: '#37353a',fontSize: '16px', padding: '10px 20px' }}>
             <a href={interestsFormLink} target="_blank" rel="noopener noreferrer" style={{ color: 'white', fontSize: '24px', textDecoration: 'none' }}>

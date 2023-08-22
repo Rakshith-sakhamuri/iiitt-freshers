@@ -62,7 +62,7 @@ useEffect(() => {
   return (
     <div className="App">
       <header>
-        <img src="http://iiitt.ac.in/images/logo-iiit.png" alt="Header" />
+        <img className='imagee' src="http://iiitt.ac.in/images/logo-iiit.png" alt="Header" />
       </header>
 
       <h1>Welcome Freshers!</h1>
